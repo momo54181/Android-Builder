@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "PACM00",
-      "repo": "https://github.com/momo54181/kernel_oppo_6771",
+      "repo": "https://github.com/momo54181/kernel_oppo_mt6771",
       "branch": "Alien-Xtreme-master",
       "device": "PACM00",
       "defconfig": "oppo6771_17197_defconfig"
