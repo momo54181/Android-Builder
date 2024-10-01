@@ -10,7 +10,7 @@
     "toolchains": [
       {
         "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
-        "branch": "lineage-17.1",
+        "branch": "lineage-20.1",
         "name": "clang",
         "binaryEnv": [
           "bin"
