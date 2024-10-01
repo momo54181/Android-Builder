@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "OPPOR15",
+      "name": "PACM00",
       "repo": "https://github.com/momo54181/kernel_oppo_6771",
       "branch": "Alien-Xtreme-master",
       "device": "PACM00",
